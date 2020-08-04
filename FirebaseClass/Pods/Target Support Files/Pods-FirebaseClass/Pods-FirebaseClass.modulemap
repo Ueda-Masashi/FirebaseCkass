@@ -1,6 +1,0 @@
-framework module Pods_FirebaseClass {
-  umbrella header "Pods-FirebaseClass-umbrella.h"
-
-  export *
-  module * { export * }
-}
